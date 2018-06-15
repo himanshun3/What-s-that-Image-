@@ -7,9 +7,14 @@ Image Classification using Keras
 
 
 98.6 % Probability :- porcupine
+
 0.38 % Probabilty :- mongoose
+
 0.15 % Probability :- Meerkat
+
 0.10 % Probability :- Puffer
+
 0.09 &=% Probability :- black-footed_ferret
+
 
 ![result](https://user-images.githubusercontent.com/26146801/41462018-1c735c0a-70af-11e8-9ac4-8ef0c3cf1b4e.png)
